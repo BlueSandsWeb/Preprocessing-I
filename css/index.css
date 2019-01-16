@@ -268,8 +268,9 @@ header .right a {
   align-items: center;
 }
 table {
+  margin: 20px auto 40px auto;
   margin-top: 20px;
-  width: 100%;
+  width: 80%;
 }
 table thead {
   font-weight: bold;
@@ -279,7 +280,6 @@ table td {
   padding: 10px;
 }
 footer {
-  margin-top: 40px;
   padding: 40px 0px;
   text-align: center;
   background-color: #232323;
